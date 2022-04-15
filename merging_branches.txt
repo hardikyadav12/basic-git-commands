@@ -1,0 +1,1 @@
+Commands and concepts for merging branches using Git
