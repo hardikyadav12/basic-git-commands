@@ -9,7 +9,3 @@ git checkout HEAD filename.extension -> this command will shift one commit back 
 that means you cant recover it. or you can you git restore filename.extension
 
 git restore --source HEAD~2/1/3/4.. filename.extension -> this will move it back to this commit and type git restore filename.extension
-
-git reset commit-hash-value -> this will erase the mentioned commit.
-
-lafanga parnda galti
