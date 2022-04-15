@@ -3,3 +3,6 @@ branch for making some change their but dont want to commit anything yet in the 
 use stashing.
 
 Just practicing stashing!
+
+git stash -> command to pick the changes and store it in the stash
+git stash pop - command to revert the changes and past it back from where it picked it up
