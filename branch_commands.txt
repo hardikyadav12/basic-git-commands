@@ -6,3 +6,4 @@ git switch "branch name" -> this will just create a new branch but not switch
 
 git commit -a -m "commit_message" -> this will add the changes and commmit them in the active branch
 
+git branch -> shows the list of all the branches and the branch in green color is the active one.
