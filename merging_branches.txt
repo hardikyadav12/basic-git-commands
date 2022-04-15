@@ -5,3 +5,5 @@ Instruction - first switch to the branch where you want to merge..for example, m
 Commands - git switch master, git merge branch_name
 
 Multiple parent for a single commit comes whenever a merge happens
+
+whenever there is a conflict, you can edit the file manually.
