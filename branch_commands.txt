@@ -7,3 +7,7 @@ git switch "branch name" -> this will just create a new branch but not switch
 git commit -a -m "commit_message" -> this will add the changes and commmit them in the active branch
 
 git branch -> shows the list of all the branches and the branch in green color is the active one.
+
+git branch -m branch_name  -> this will rename the branch and you need to be present in the branch
+
+git branch -d/D branch_name -> this will delete the branch and you need to be present in any other branch than the branch to be deleted
