@@ -6,4 +6,6 @@ git checkout HEAD~1 -> will shift to commit one before the parent one...similarl
 last commit and point to that.
 
 git checkout HEAD filename.extension -> this command will shift one commit back on the current branch and then permanent the change
-that means you cant recover it.
+that means you cant recover it. or you can you git restore filename.extension
+
+git restore --source HEAD~2/1/3/4.. filename.extension -> this will move it back to this commit and type git restore filename.extension
