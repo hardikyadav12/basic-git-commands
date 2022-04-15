@@ -9,3 +9,6 @@ git checkout HEAD filename.extension -> this command will shift one commit back 
 that means you cant recover it. or you can you git restore filename.extension
 
 git restore --source HEAD~2/1/3/4.. filename.extension -> this will move it back to this commit and type git restore filename.extension
+
+git reset commit-hash -> this will go to specifc commit but not remove the value in the .txt file. will also rmove the mistaken commit
+git reset --hard commit-hash -> this command will delete the specific cmmit and the value too
