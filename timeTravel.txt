@@ -1,3 +1,6 @@
 git checkout commit_hash_value -> it will lead us to the specific commit. Here we get a situation of detached head.
 normally head points to a branch and the branch points to the commit but after this command..the HEAD points directly to the
 specific commit.
+
+git checkout HEAD~1 -> will shift to commit one before the parent one...similarly ~2, ~3 will look to second last, third
+last commit and point to that.
