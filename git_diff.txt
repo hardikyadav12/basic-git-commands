@@ -5,4 +5,7 @@ Leipzig
 If we want to compare git commits, we need to provide commit hashes in the git diff command
 Exampe - git diff commit1, commit2, commit3
 
-'git diff' shows difference in only unstaged differences and 'git diff HEAD' shows difference when staged.
+'git diff' shows difference in only unstaged differences and 'git diff HEAD' shows difference when staged or unstaged.
+
+git diff --staged shows changes when staged
+git diff --staged filename -> shows changes in stage level for the particular file.
