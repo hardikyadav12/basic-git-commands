@@ -4,3 +4,6 @@ specific commit.
 
 git checkout HEAD~1 -> will shift to commit one before the parent one...similarly ~2, ~3 will look to second last, third
 last commit and point to that.
+
+git checkout HEAD filename.extension -> this command will shift one commit back on the current branch and then permanent the change
+that means you cant recover it.
