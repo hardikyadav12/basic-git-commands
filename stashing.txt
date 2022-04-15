@@ -7,3 +7,5 @@ Just practicing stashing!
 git stash -> command to pick the changes and store it in the stash
 git stash pop - command to revert the changes and paste it back from where it picked it up
 git stash apply - command to revert the changes andn paste it in multiple places..is rtue for multiple branches
+
+git stash apply stash@{0} - it will apply this particular stash...you can get the lost of stashe using - git stash list
