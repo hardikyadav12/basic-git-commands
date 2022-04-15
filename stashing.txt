@@ -1,3 +1,5 @@
 When we are working on some branch and we are editing it but suddenly we want to switch to some other
 branch for making some change their but dont want to commit anything yet in the current branch..at that time we 
 use stashing.
+
+Just practicing stashing!
