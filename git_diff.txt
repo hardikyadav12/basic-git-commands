@@ -1,3 +1,6 @@
 Bayern Munich
-Dortmund
+Berlin
 Leipzig
+
+If we want to compare git commits, we need to provide commit hashes in the git diff command
+Exampe - git diff commit1, commit2, commit3
