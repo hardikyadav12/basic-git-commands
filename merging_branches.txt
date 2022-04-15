@@ -7,3 +7,6 @@ Commands - git switch master, git merge branch_name
 Multiple parent for a single commit comes whenever a merge happens
 
 Adding few lines forr merge testing.
+
+Adding line for testing
+
