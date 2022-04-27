@@ -10,4 +10,5 @@ git stash apply - command to revert the changes andn paste it in multiple places
 
 git stash apply stash@{0} - it will apply this particular stash...you can get the lost of stashe using - git stash list
 
-git stash drop stash@{0} - it will drop this particular stash and git stash clear will clear/delete all the sta shes in the list.
+git stash drop stash@{0} - it will drop this particular stash and git stash clear will clear/delete all the stashes in the list.
+
